@@ -12,6 +12,9 @@ function main(input) {
   } else if (x == 8 && y == 10 )
   {
     console.log(batPhansangThap(n))
+  }else 
+  {
+    console.log(0);
   }
 }
 function ThapphanSangNhi(n, x, y) {
