@@ -22,13 +22,8 @@ function ThapphanSangNhi(n, x, y) {
     n = Math.floor(n / 2);
     arr.unshift(remainder);
   }
-  return arr.join(' ')
+  return arr.join('')
 }
-function NhiphanSangthapphan(n) {
-
-
-}
-
 function batPhansangThap(n) {
   let x=0; 
   i = 0;
